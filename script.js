@@ -116,7 +116,7 @@ function Github_Call()
 
 function LinkedIn_Call()
 {
-    location.href = "https://www.linkedin.com/in/tasmay-pankaj-tibrewal-17ab26250";
+    location.href = "https://www.linkedin.com/in/tasmay-tibrewal/";
 }
 
 function Facebook_Call()
